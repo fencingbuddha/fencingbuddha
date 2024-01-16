@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Cameron
-- 👀 I’m interested in becoming a full time programmer
-- 🌱 I currently work as an Site Support Specialist
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m currently working on my Masters of Software Engineering at Penn State University World Campus
+- 🌱 I currently work as a Site Support Specialist at Cabinetworks Group
 - 📫 How to reach me; beebe.cameron7@gmail.com
 
 <!---

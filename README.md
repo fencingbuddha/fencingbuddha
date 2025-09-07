@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Cameron
 - 👀 I’m currently working on my Masters of Software Engineering at Penn State University World Campus
-- 🌱 I currently work as a Site Support Specialist at Cabinetworks Group
+- 🌱 I currently work as a Site Support Specialist for IntelliPro @ USFoods
 - 📫 How to reach me; beebe.cameron7@gmail.com
 
 <!---
